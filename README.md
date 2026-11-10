@@ -84,6 +84,18 @@ Only test systems and networks you own or have explicit permission to assess. Ne
 - [ ] Add configurable connection timeout
 - [ ] Add support for checking multiple hosts from a file
 
+## Development Notes
+
+NetPulse is a Python-based network diagnostics
+project developed as part of my learning journey
+in Networking, IT Infrastructure, and Cybersecurity.
+
+### Planned Features
+- Network latency monitoring
+- JSON diagnostic report
+- Multiple host connectivity testing
+- Improved error handling
+
 ## Learning Journey
 
 This project is part of my Python and
