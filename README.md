@@ -73,6 +73,11 @@ Only test systems and networks you own or have explicit permission to assess. Ne
 - [ ] Add configurable connection timeout
 - [ ] Add support for checking multiple hosts from a file
 
+## Learning Journey
+
+This project is part of my Python and
+Network Engineering learning journey.
+
 ## License
 
 MIT
