@@ -4,6 +4,13 @@ A beginner-friendly Python CLI for basic network troubleshooting. NetPulse check
 
 > Built as a small portfolio project for learning Python, networking, and Git/GitHub workflows.
 
+## Project Goals
+
+- **Learning & Skill Building**: Practice core Python programming concepts, standard library usage, and clean code principles.
+- **Networking Foundations**: Understand basic networking protocols (DNS, TCP, ICMP ping) through hands-on CLI implementation.
+- **Developer Workflow**: Apply Git/GitHub best practices, modular project structure, and unit testing.
+- **Lightweight Tooling**: Provide a simple, zero-dependency network diagnostic utility for daily command-line use.
+
 ## Features
 
 - Resolve a hostname to IPv4 addresses
