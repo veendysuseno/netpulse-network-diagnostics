@@ -19,6 +19,17 @@ A beginner-friendly Python CLI for basic network troubleshooting. NetPulse check
 - Clear, readable terminal output
 - Unit tests for core helper functions
 
+## Project Development
+
+NetPulse is an ongoing Python networking
+project developed for learning and portfolio
+purposes.
+
+### Future Improvements
+- Network latency monitoring
+- JSON diagnostic reports
+- Multiple host monitoring
+
 ## Requirements
 
 - Python 3.10+
