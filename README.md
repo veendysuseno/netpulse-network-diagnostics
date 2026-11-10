@@ -101,6 +101,14 @@ in Networking, IT Infrastructure, and Cybersecurity.
 This project is part of my Python and
 Network Engineering learning journey.
 
+## Collaboration
+
+NetPulse welcomes collaboration and contributions
+to improve network diagnostics functionality.
+
+This project is part of my learning journey in
+Python, Networking, and Cybersecurity.
+
 ## License
 
 MIT
